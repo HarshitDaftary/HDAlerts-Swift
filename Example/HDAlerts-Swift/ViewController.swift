@@ -1,7 +1,6 @@
 //
 //  ViewController.swift
 //  HDAlerts-Swift
-//
 //  Created by HarshitDaftary on 11/06/2015.
 //  Copyright (c) 2015 HarshitDaftary. All rights reserved.
 //
