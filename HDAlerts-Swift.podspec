@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "HDAlerts-Swift"
-  s.version          = "0.1.0"
+  s.version          = "2.4"
   s.summary          = "A short description of HDAlerts-Swift."
 
 # This description is used to generate tags and improve search results.
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
                        DESC
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/HDAlerts-Swift"
+  s.homepage         = "https://github.com/HarshitDaftary/HDAlerts-Swift"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "HarshitDaftary" => "daftaryharshit@yahoo.co.in" }
